@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Andy Challis! <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif" width="230">
-<p><em>Data Scientist at <a href="https://www.capgemini.com.au">Capgemini</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
+<p><em>Principal Engineer at <a href="https://www.slalombuild.com/en-gb/">Slalom _build</a><img src="https://media.giphy.com/media/U2LqsKYUCXCZp5u2jP/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: ghandi](https://img.shields.io/twitter/follow/ghandi?style=social)](https://twitter.com/ghandi)
